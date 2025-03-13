@@ -28,7 +28,7 @@ python turbocsv.py
 
 ## File Structure
 - turbocsv.py: Main script for processing CSV files.
-- input.csv: Example input CSV file.
+- input.csv: input CSV file.
 - output.jsonl: Output JSONL file.
 
 # How It Works
